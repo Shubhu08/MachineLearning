@@ -1,0 +1,12 @@
+Toy Data multiclass: 3 class classification
+sgd training time: 0.075175 seconds
+train acc: 0.937143, test acc: 0.945000
+gd training time: 0.073963 seconds
+train acc: 0.950000, test acc: 0.950000
+
+MNIST: 10 class classification
+sgd training time: 0.121416 seconds
+train acc: 0.786400, test acc: 0.778000
+gd training time: 6.905957 seconds
+train acc: 0.945400, test acc: 0.896000
+
